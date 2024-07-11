@@ -67,3 +67,6 @@ You should receive a response with the message: Welcome to the secure backend se
 Test GET /api/blocked-ips endpoint:
 curl -X GET http://localhost:3000/api/blocked-ips
 You should receive a JSON response with the list of currently blocked IP addresses.
+
+## Way Forward
+Implementation of frontend to make it User friendly.
