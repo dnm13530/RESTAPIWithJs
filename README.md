@@ -69,4 +69,4 @@ curl -X GET http://localhost:3000/api/blocked-ips
 You should receive a JSON response with the list of currently blocked IP addresses.
 
 ## Way Forward
-Implementation of frontend to make it User friendly.
+Enhancing the security features and Implementation of this in the upcoming projects to secure the application from cyber attacks.
